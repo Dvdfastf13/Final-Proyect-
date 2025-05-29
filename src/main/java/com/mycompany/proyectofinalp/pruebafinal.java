@@ -13,4 +13,5 @@ public class pruebafinal {
     int atun;
     int manos;
     int pruebajeje;
+    String prueba2defuncion;
 }
