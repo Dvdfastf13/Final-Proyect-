@@ -10,9 +10,6 @@ package com.mycompany.proyectofinalp;
  */
 public class Administrador extends javax.swing.JFrame {
 
-    private void pruebadetarea(){
-        
-    }
     /**
      * Creates new form Administrador
      */
