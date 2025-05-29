@@ -12,5 +12,5 @@ public class pruebafinal {
     int queso;
     int atun;
     int manos;
-    
+    int pruebajeje;
 }
