@@ -14,4 +14,11 @@ public class pruebafinal {
     int manos;
     int pruebajeje;
     String prueba2defuncion;
+    String prueba3;
+    String prueba4;
+    String prueba5;
+    String prueba36;
+
+
+
 }
